@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "687031076663",
+    "firebase_url": "https://eatos1-a841e.firebaseio.com",
+    "project_id": "eatos1-a841e",
+    "storage_bucket": "eatos1-a841e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687031076663:android:2728c1ceb67ac8d76dbcb2",
+        "android_client_info": {
+          "package_name": "com.example.eatos_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687031076663-0rhf7vutqsiq9nv7hfndj8mabrfarh0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZeubYuBivDb6362OPvGbdyO7bKMrwpY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687031076663-0rhf7vutqsiq9nv7hfndj8mabrfarh0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
